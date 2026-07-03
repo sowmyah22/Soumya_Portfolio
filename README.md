@@ -6,7 +6,8 @@ This portfolio showcases my experience in **Artificial Intelligence, Generative 
 
 ## 🌐 Live Portfolio
 
-**Portfolio:**
+**Portfolio:https://soumya-portfolio-five.vercel.app/**
+
 
 ## 👩‍💻 About Me
 
@@ -54,7 +55,7 @@ I enjoy developing AI-powered applications that solve real-world business proble
 Clone the repository:
 
 ```bash
-git clone https://github.com/sowmyah22/Soumya_Portfolio.git
+git clone https://github.com/sowmyah22/Soumya_Portfolio
 ```
 
 
